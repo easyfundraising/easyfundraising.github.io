@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Welcome to easyfundraising Engineering"
+date:   2018-11-26 09:53:24 +0000
+categories: update
+author: James Wade
+---
+
+At easyfundraising, as a digital business, we are passionate about engineering, only second to our passion for helping good causes to raise more.
+
+Founded in 2007, easyfundraising is the UK’s largest charity reward platform, partnering with over 3000 retailers through over 30 affiliate networks. We employ over 50 people, we have over 25 people in our Lichfield-based product and engineering office. We have 2 agile product teams, each around 5-7 people.
+
+We’ve come a long way since I joined easyfundraising in 2015. We’ve seen huge advances in our platform, improving in many areas including, product, infrastructure and development processes. We've seen the launch of a responsive website, new and improved features, improvements to our infrastructure using cutting edge technologies and giant leaps in delivery.
+
+At easyfundraising, we believe people are the key to our success, we believe in each other. We believe change is opportunity. We believe in continuous improvement. And most importantly, we believe in putting our customer first.
+
+> [“Release early. Release often. And listen to your customers”](https://en.wikipedia.org/wiki/Release_early,_release_often) - Eric S. Raymond, The Cathedral and the Bazaar, 1997.
+
+As an engineers, we recognise that we're only able to do what we do because we're standing on the shoulders of giants. This blog aims to be our way to give back to that community, to share what we learn and inspire the next generation.
+
+There's not a lot here at the moment, so in the meantime, here's a few other blogs from other engineering departments that we often find are a great source of inspiration: [37Signals/Basecamp - Signal v Noise](https://signalvnoise.com/posts), [BBC](http://www.bbc.co.uk/academy/technology), [CAP Gemini](https://capgemini.github.io/), [ComicRelief](https://technology.comicrelief.com/), [CompareTheMarket](https://medium.com/comparethemarket) [Crisp](https://blog.crisp.se/author/henrikkniberg), [eBay](https://www.ebayinc.com/stories/blogs/tech/), [Etsy](https://codeascraft.com/), [Facebook](https://code.facebook.com/posts/), [Groupon](https://engineering.groupon.com), [Guardian](https://www.theguardian.com/info/developer-blog), [IBM](https://www.ibm.com/developerworks/community/blogs/roller-ui/homepage), [Kickstarter](https://kickstarter.engineering/), [Laterooms - Engineering](http://engineering.laterooms.com/), [Made.com](https://io.made.com), [Moonpig](https://engineering.moonpig.com/), [Netflix](https://techblog.netflix.com/), [SoundCloud](https://developers.soundcloud.com/blog), [Spotify](https://labs.spotify.com/), [ThoughtWorks](https://www.thoughtworks.com/insights), [UK Government Digital Service](https://gds.blog.gov.uk/).
+
+Enjoy!
