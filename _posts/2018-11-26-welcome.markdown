@@ -6,7 +6,7 @@ categories: update
 author: James Wade
 ---
 
-At easyfundraising, as a digital business, we are passionate about engineering, only second to our passion for helping good causes to raise more.
+At [easyfundraising](https://www.easyfundraising.org.uk/), as a digital business, we are passionate about engineering, only second to our passion for helping good causes to raise more.
 
 Founded in 2007, easyfundraising is the UK’s largest charity reward platform, partnering with over 3000 retailers through over 30 affiliate networks. We employ over 50 people, we have over 25 people in our Lichfield-based product and engineering office. We have 2 agile product teams, each around 5-7 people.
 
